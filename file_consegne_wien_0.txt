@@ -1,0 +1,11 @@
+Rossauer Lande|
+BBB104 8|Pilgramgasse|
+EDA181 48|Landstrasse|
+BEE013 16|Messe-Prater|
+EDB083 9|Bahnhof Meidling|
+ABD794 44|Friedensbrucke|
+BCA542 6|Oberlaa|
+CCE161 28|Karlsplatz|
+EAD407 2|Donaustadtbrucke|
+ECE184 14|Johnstrasse|
+BCA310 33|Gasometer|

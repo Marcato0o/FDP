@@ -1,0 +1,4 @@
+linea_1: 5|Abbiatemagro|Valnate|Centrale FS|Taleggio|Procopia|
+linea_2_a: 7|Phi|Duomo|Centrale FS|Osimo|Cascina Gobba|Turchese|Casalmerone|
+linea_2_b: 2|Turchese|Gracco|
+linea_3: 5|Olmo|Cerniolo|Taleggio|San Germano|Gracco|

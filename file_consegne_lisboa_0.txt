@@ -1,0 +1,11 @@
+Arroios|
+BEE401 1|Laranjeiras|
+ABD049 49|Cabo Ruivo|
+BED874 11|Restauradores|
+CDC717 32|Oriente|
+CDD512 14|Terreiro do Paco|
+ADA468 4|Avenida|
+ADE545 25|Campo Pequeno|
+DAB087 25|Alfornelos|
+DDA859 30|Quinta das Conchas|
+BCD348 28|Cais do Sodre|

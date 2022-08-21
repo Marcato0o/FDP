@@ -1,0 +1,4 @@
+Amarela: 12|Rato|Marques de Pombal|Picoas|Saldanha|Campo Pequeno|Entrecampos|Cidade Universitaria|Campo Grande|Quinta das Conchas|Lumiar|Ameixoeira|Senhor Roubado|
+Azul: 17|Santa Apolonia|Terreiro do Paco|Baixa-Chiado|Restauradores|Avenida|Marques de Pombal|Parque|Sao Sebastiao|Praca de Espanha|Jardim Zoologico|Laranjeiras|Alto dos Moinhos|Colegio Militar/Luz|Carnide|Pontinha|Alfornelos|Amadora Este|
+Verde: 12|Cais do Sodre|Baixa-Chiado|Rossio|Martim Moniz|Intendente|Anjos|Arroios|Alameda|Areeiro|Roma|Alvalade|Campo Grande|
+Vermelha: 11|Sao Sebastiao|Saldanha|Alameda|Olaias|Bela Vista|Chelas|Olivais|Cabo Ruivo|Oriente|Moscavide|Encarnacao|
